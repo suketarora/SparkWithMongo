@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/pal/IdeaProjects/SparkWithMongo/target/scala-2.11/sparkwithmongo_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mongodb/GettingStarted$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pal/IdeaProjects/SparkWithMongo/target/scala-2.11/classes/com/mongodb/GettingStarted$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pal/IdeaProjects/SparkWithMongo/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mongodb/GettingStarted.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pal/IdeaProjects/SparkWithMongo/target/scala-2.11/classes/com/mongodb/GettingStarted.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mongodb/GettingStarted$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pal/IdeaProjects/SparkWithMongo/target/scala-2.11/classes/com/mongodb/GettingStarted$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/mongodb[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pal/IdeaProjects/SparkWithMongo/target/scala-2.11/classes/com/mongodb[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
